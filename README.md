@@ -60,11 +60,10 @@ Masukkan jumlah thread (default: 10):
    Status: 200
 ...
 ```
-```
 
 ## Wordlist
 Edit atau ganti `wordlist.txt` dengan daftar path admin potensial milik Anda sendiri. Baris yang diawali `#` akan diabaikan.
 
 ## Repo & Kontak
 - Repo: [github.com/yogaxdd/admin-finder](https://github.com/yogaxdd/admin-finder)
-- Sosial Media: [@yogakokxd](https://t.me/yogakokxd)
+- Sosial Media: [@yogakokxd](http://instagram.com/yogakokxd)
